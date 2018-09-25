@@ -1,2 +1,5 @@
 1. Introduction
 Git a été créé par Linus Torvald.
+
+2. Installation
+Installer à partir de : https://git-scm.com/downloads
